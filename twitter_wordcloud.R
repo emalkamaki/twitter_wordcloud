@@ -8,7 +8,7 @@ setwd("~/R/win-library/Business Information Management/Bonus Assignment Twitter"
 ck <- "xxxx"
 cs <- "xxx"
 at <- "xx"
-as <- "aG7KyYPHg4l2x3mWOCZV3LLQ4TUngOp3NPw0gUMwft1IG"
+as <- "x"
 
 setup_twitter_oauth(ck, cs, access_token = at, access_secret = as)
 
