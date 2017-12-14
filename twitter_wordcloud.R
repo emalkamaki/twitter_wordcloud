@@ -1,5 +1,5 @@
 # Import the relevant library
-require(twitteR)
+library(twitteR)
 
 # Set working directory
 setwd("~/R/win-library/Business Information Management/Bonus Assignment Twitter")
