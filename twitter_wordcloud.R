@@ -71,7 +71,6 @@ OnlyEven <- subset(Tweets_with_EvenID,Tweets_with_EvenID$EvenID==1) # Create a n
 write.table(OnlyEven, "R Task 2_EvenID.csv", row.names = FALSE, col.names = TRUE, sep =";") # Create a .csv
 
 # as.integer(substr(my_columns[1,6],18,18))
-# Hint (see video 2)
 
 # R Task 2 End
 
