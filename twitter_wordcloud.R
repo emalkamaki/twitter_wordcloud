@@ -2,7 +2,7 @@
 library(twitteR)
 
 # Set working directory
-setwd("~/R/win-library/Business Information Management/Bonus Assignment Twitter")
+setwd("...")
 
 # Assign Twitter API - keys
 ck <- "xxxx"
